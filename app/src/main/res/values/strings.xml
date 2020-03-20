@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="element_rock">Rock</string>
+    <string name="element_scissors">Scissors</string>
+    <string name="element_paper">Paper</string>
+    <string name="element_lizard">Lizard</string>
+    <string name="element_spock">Spock</string>
+    <string name="no_one">no one\'s</string>
+    <string name="won_computer">Computer won</string>
+    <string name="won_user">User won</string>
+    <string name="won_computer_number">Computer %d won</string>
+    <string name="rock_paper_scissors">Rock Paper Scissors</string>
+    <string name="rock_paper_scissors_lizard_spock">Rock Paper Scissors Lizard Spock</string>
+    <string name="weapons_3">Play with three weapons</string>
+    <string name="weapons_5">Play with five weapons</string>
+    <string name="choose_game">Choose a game</string>
+    <string name="choose_game_mode">Select game mode</string>
+    <string name="choose_game_mode_compuer_player">Player vs Computer</string>
+    <string name="choose_game_mode_compuer_computer">Computer vs Computer</string>
+    <string name="game_start">Start</string>
+    <string name="computer_and_score">Computer: score = %d</string>
+    <string name="computer_and_computer_score">Computer %d: score = %d</string>
+    <string name="bot_and_score">Bot: score = %d</string>
+    <string name="player_and_score">Player: score = %d</string>
+
+</resources>

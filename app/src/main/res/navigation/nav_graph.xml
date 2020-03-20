@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph.xml"
+    app:startDestination="@id/menuFragment">
+
+    <fragment
+        android:id="@+id/menuFragment"
+        android:name="app.prototype.rockpaperscissors.MenuFragment"
+        android:label="fragment_menu"
+        tools:layout="@layout/fragment_menu" />
+    <fragment
+        android:id="@+id/RPSSLFragment"
+        android:name="app.prototype.rockpaperscissors.RPSSLFragment"
+        android:label="fragment_rpssl"
+        tools:layout="@layout/fragment_rpssl" />
+    <fragment
+        android:id="@+id/gameMode"
+        android:name="app.prototype.rockpaperscissors.GameMode"
+        android:label="fragment_game_mode"
+        tools:layout="@layout/fragment_game_mode" />
+
+</navigation>
